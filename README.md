@@ -26,7 +26,7 @@ A modern, interactive personal portfolio website built with React, TypeScript, a
 
 1. Navigate to the project directory:
    ```bash
-   cd /Users/depa/personal-website
+   cd /path-to-project
    ```
 
 2. Install dependencies:

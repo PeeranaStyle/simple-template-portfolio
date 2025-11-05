@@ -1,4 +1,4 @@
-# PeeranaStyle's Personal Portfolio 🖥️✨
+# template Personal Portfolio 🖥️✨
 
 A modern, interactive personal portfolio website built with React, TypeScript, and Tailwind CSS. Showcasing my journey as a developer passionate about clean design and efficient code.
 

@@ -1,4 +1,4 @@
-# Depa's Personal Portfolio 🖥️✨
+# PeeranaStyle's Personal Portfolio 🖥️✨
 
 A modern, interactive personal portfolio website built with React, TypeScript, and Tailwind CSS. Showcasing my journey as a developer passionate about clean design and efficient code.
 
@@ -113,9 +113,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**depa** - *Developer*
+**PeeranaStyle** - *Developer*
 
-Hi! I'm depa
+Hi! I'm PeeranaStyle
 
 - Portfolio: [your-portfolio-url](https://your-portfolio-url.com)
 - GitHub: [@your-github](https://github.com/your-github)

@@ -117,9 +117,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Hi! I'm PeeranaStyle
 
-- Portfolio: [your-portfolio-url](https://your-portfolio-url.com)
-- GitHub: [@your-github](https://github.com/your-github)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- Portfolio: [[your-portfolio-url](https://your-portfolio-url.com)](https://portfolio-peeranathakron.web.app/)
+- GitHub: [[@your-github](https://github.com/your-github)](https://github.com/PeeranaStyle)
 
 **Skills & Technologies:**
 - Add your skills here
